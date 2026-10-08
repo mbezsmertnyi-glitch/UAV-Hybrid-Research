@@ -7,19 +7,19 @@ An experimental hybrid wingless tailsitter VTOL drone featuring the Lift + Thrus
 ### Ітерація 4 (Найбільш успішний демонстраційний політ)
 **Результат:** Ідеальне масове зведення (CoG = CoT), стабільний політ з EDF (66%) та моторів (~66%)
 
-[![Ітерація 4 — Фінальний політ](https://img.youtube.com/vi/uuhtfg_cJ2A.jpg)](https://www.youtube.com/watch?v=uuhtfg_cJ2A)
+[![Ітерація 4 — Фінальний політ](https://img.youtube.com/vi/uuhtfg_cJ2A/0.jpg)](https://www.youtube.com/watch?v=uuhtfg_cJ2A)
 
 ### Ітерація 4 (Випадковий тест відмовістійкості)
 **Результат:** Випадкова практична перевірка безпечного приземлення при відмові 2 моторів по діагоналі завдяки вертикальній тязі імпелера.
 
-[![Тест відмовостійкості XO5](https://img.youtube.com/vi/wvkxaUjHcMU.jpg)](https://www.youtube.com/watch?v=wvkxaUjHcMU)
+[![Тест відмовостійкості XO5](https://img.youtube.com/vi/wvkxaUjHcMU/0.jpg)](https://www.youtube.com/watch?v=wvkxaUjHcMU)
 
 ---
 
 ### Ітерація 4 (Політ)
 **Результат:** Ідеальне масове зведення (CoG = CoT), політ з EDF (50%) та моторів (~75-100%)
 
-[![Ітерація 4 — Фінальний політ](https://img.youtube.com/vi/5YPj1RLQBtY.jpg)](https://www.youtube.com/watch?v=5YPj1RLQBtY)
+[![Ітерація 4 — Фінальний політ](https://img.youtube.com/vi/5YPj1RLQBtY/0.jpg)](https://www.youtube.com/watch?v=5YPj1RLQBtY)
 
 ---
 
