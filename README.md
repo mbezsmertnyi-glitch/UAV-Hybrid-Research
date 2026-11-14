@@ -7,7 +7,8 @@ An experimental hybrid wingless tailsitter VTOL drone featuring the Lift + Thrus
 ### YO5 Ітерація 1 (Перший політ у режимі висіння)
 **Результат:** Практична перевірка працездатності системи у режимі висіння
 
-[![YO5 Ітерація 1 політ в режимі висіння](https://img.youtube.com/vi/3uD4ukYJvbo.jpg)](https://www.youtube.com/watch?v=3uD4ukYJvbo)
+
+[![YO5 Ітерація 1 політ в режимі висіння](https://img.youtube.com/vi/3uD4ukYJvbo/hqdefault.jpg)](https://www.youtube.com/watch?v=3uD4ukYJvbo)
 
 
 У ході розробки було виготовлено та випробувано 4 ітерації демонстратора XO5 Nachzerer. Нижче наведені відеофіксації ключових етапів:
