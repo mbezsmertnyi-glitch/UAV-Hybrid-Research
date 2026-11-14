@@ -2,7 +2,7 @@
 An experimental hybrid wingless tailsitter VTOL drone featuring the Lift + Thrust Separation concept. It utilizes a central EDF for gravity compensation and four rotors for thrust and control.
 ## Льотні випробування та еволюція прототипів (Flight Tests)
 
-У х оді роботи виготовлено прототип YO5 Nachtklinge 1 ітерації. Нижче наведена/наведені відеофіксації ключових етапів:
+У ході роботи виготовлено прототип YO5 Nachtklinge 1 ітерації. Нижче наведена/наведені відеофіксації ключових етапів:
 
 ### YO5 Ітерація 1 (Перший політ у режимі висіння)
 **Результат:** Практична перевірка працездатності системи у режимі висіння
